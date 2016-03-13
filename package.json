@@ -1,0 +1,22 @@
+{
+  "name": "stylern",
+  "description": "Stylern is base style of React Native",
+  "version": "0.0.0",
+  "author": "ideyuta <ide.yuta@gmail.com>",
+  "keywords": [
+    "reactnative",
+    "stylesheet",
+    "style",
+    "base",
+    "mixin"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ideyuta/stylern.git"
+  },
+  "scripts": {
+    "test": "exit 0"
+  }
+}
